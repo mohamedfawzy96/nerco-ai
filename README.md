@@ -40,6 +40,7 @@ If you want to run the latest code from git, here's how to get started:
    - Copy the API key and paste it into Node-RED Assistant when prompted
 
 
+
 ## Discord Channel 💬
 
 
