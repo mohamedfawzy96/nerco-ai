@@ -2,7 +2,8 @@
 
 https://nercoai.com
 
-AI Copilot for Low-code programming for event-driven applications.
+The AI Co-Pilot for Home, Building and Industrial Automation
+
 ## Demo 📹
 
 ![Demo](download.gif)
