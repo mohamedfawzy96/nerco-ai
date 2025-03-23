@@ -67,6 +67,7 @@
         "node-red-admin": "^4.0.1",
         "node-red-contrib-gpio": "^0.51.0",
         "node-red-contrib-pid": "^2.0.0",
+        "node-red-dashboard": "^3.6.5",
         "node-red-node-mysql": "^2.0.0",
         "node-red-node-pi-gpio": "^2.0.6",
         "node-watch": "0.7.4",
