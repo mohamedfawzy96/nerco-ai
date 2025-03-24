@@ -2,11 +2,11 @@ FROM node:18-alpine
 
 WORKDIR /app
 
-# Install git, Python and build dependencies
-RUN apk add --no-cache git python3 make g++ 
+# Install git, Python, build dependencies, and Linux headers
+RUN apk add --no-cache git python3 make g++ linux-headers
 
 # Clone the repository
-RUN git clone https://github.com/node-red/node-red.git .
+RUN git clone https://github.com/mohamedfawzy96/nerco-ai .
 
 # Install dependencies
 RUN npm install

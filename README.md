@@ -9,7 +9,10 @@ The AI Co-Pilot for Home, Building and Industrial Automation
 ![Demo](download.gif)
 
 
-
+## With Docker
+```
+docker run -p 3000:3000 public.ecr.aws/x8e5h7k9/nerco-ai/ai-assistant:latest
+```
 
 ## Quick Start 🚀
 
@@ -39,6 +42,7 @@ If you want to run the latest code from git, here's how to get started:
    - Navigate to API Keys section
    - Create a new API key
    - Copy the API key and paste it into Nerco AI Assistant when prompted
+
 
 
 
