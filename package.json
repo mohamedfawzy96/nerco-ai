@@ -10,7 +10,7 @@
     },
     "private": "true",
     "scripts": {
-        "start": "node packages/node_modules/node-red/red.js",
+        "start": "node packages/node_modules/node-red/red.js --port 3000",
         "test": "grunt",
         "build": "grunt build",
         "dev": "grunt dev",
