@@ -9,7 +9,7 @@ The AI Co-Pilot for Home, Building and Industrial Automation
 ![Demo](download.gif)
 
 
-## With Docker
+## Run With Docker
 ```
 docker run -p 3000:3000 public.ecr.aws/x8e5h7k9/nerco-ai/ai-assistant:latest
 ```
