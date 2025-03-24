@@ -38,7 +38,7 @@ If you want to run the latest code from git, here's how to get started:
    - Sign up for an account if you don't have one
    - Navigate to API Keys section
    - Create a new API key
-   - Copy the API key and paste it into Node-RED Assistant when prompted
+   - Copy the API key and paste it into Nerco AI Assistant when prompted
 
 
 
