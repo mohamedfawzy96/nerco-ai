@@ -1,4 +1,4 @@
-FROM --platform=linux/amd64 node:18-alpine
+FROM --platform=linux/amd64 node:23-alpine
 
 WORKDIR /app
 
@@ -6,7 +6,7 @@ WORKDIR /app
 RUN apk add --no-cache git python3 make g++ linux-headers
 
 # Clone the repository
-RUN git clone https://github.com/mohamedfawzy96/nerco-ai .
+COPY . .
 
 # Install dependencies
 RUN npm install
