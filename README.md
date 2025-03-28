@@ -61,3 +61,7 @@ If you want to run the latest code from git, here's how to get started:
 
 If you have any questions or want specific features, join our discord [channel](https://discord.gg/DYCBSUew)
 
+## License Notice
+
+This project contains source code derived from Node-RED, which is licensed under the Apache License 2.0. All such files retain their original license. Any original contributions in this repository are also licensed under the Apache License 2.0.
+
